@@ -1,0 +1,10 @@
+{
+    "prefix": "/",
+    "token": "",
+    "permissions": "YOUR_BOT_PERMISSIONS_HERE NOT USED",
+    "application_id": "YOUR_APPLICATION_ID_HERE NOT USED",
+    "sync_commands_globally": false,
+    "owners": [
+      240893387874500608
+    ]
+  }
